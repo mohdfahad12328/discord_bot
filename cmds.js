@@ -28,4 +28,4 @@ const userHelloCmd = {
   },
 };
 
-module.exports = { pingCmd, userCmd };
+module.exports = { pingCmd, userHelloCmd };
